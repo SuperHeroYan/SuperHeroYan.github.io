@@ -44,11 +44,12 @@ a{
     height: 57px;
   }
   .get-btn{
-    width: 220px;height: 57px;
+    width: 220px;
+    height: 57px;
   }
   .icon{
-    height: 65px;
-    width: 65px;
+    height: 60px;
+    width: 60px;
   }
   a{
     left: 42%;

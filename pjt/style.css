@@ -40,14 +40,15 @@ a{
 
 @media screen and (max-width: 390px) {
   .btn{
-    width: 330px;
+    width:220px;
+    height: 57px;
   }
   .get-btn{
-    width: 320px;
+    width: 220px;height: 57px;
   }
   .icon{
-    height: 50px;
-    width: 50px;
+    height: 65px;
+    width: 65px;
   }
   a{
     left: 42%;

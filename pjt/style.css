@@ -56,19 +56,19 @@ a{
 
 @media screen and (max-width: 390px) {
   .btn{
-    width: 260px;
-    height: 84px;
+    width: 174px;
+    height: 57px;
   }
   .get-btn{
     width: 260px;
     height: 84px;
   }
   .icon{
-    height: 76px;
-    width: 76px;
+    height: 50px;
+    width: 50px;
   }
   a{
-    left: 50%;
+    left: 42%;
     top: 89%;
   }
 }

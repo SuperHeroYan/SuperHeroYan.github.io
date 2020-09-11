@@ -41,11 +41,9 @@ a{
 @media screen and (max-width: 390px) {
   .btn{
     width: 320px;
-    height: 84px;
   }
   .get-btn{
     width: 320px;
-    height: 84px;
   }
   .icon{
     height: 50px;

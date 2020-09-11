@@ -37,21 +37,14 @@ a{
   transform: translate(-50%, -50%);
   text-decoration: none;
 }
-.get{
-  color: #fff;
-  text-transform: uppercase;
-  position: absolute;
-  left: 48%;
-  top: 15%;
-}
 
 @media screen and (max-width: 390px) {
   .btn{
-    width: 174px;
+    width: 200px;
     height: 57px;
   }
   .get-btn{
-    width: 260px;
+    width: 300px;
     height: 84px;
   }
   .icon{

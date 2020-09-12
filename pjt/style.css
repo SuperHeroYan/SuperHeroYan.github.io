@@ -3,7 +3,10 @@ body{
   padding: 0;
   margin: 0;
   font-family: sans-serif;
-  overflow: hidden;
+  overflow-y: hidden;
+}
+html{
+  overflow-y: hidden;
 }
 .main{
   height: 100vh;

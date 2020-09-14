@@ -45,8 +45,9 @@ a:focus {
 
 @media screen and (max-width: 590px) {
   .btn{
-    width:220px;
-    height: 67px;
+    width: 300px;
+    height: 70px;
+    padding: 1px;
   }
   .get-btn{
     width: 220px;

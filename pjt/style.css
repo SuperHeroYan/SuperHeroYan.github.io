@@ -70,3 +70,9 @@ a:focus {
   }
 }
 
+@media all and (-webkit-min-device-pixel-ratio:0) and (min-resolution: .001dpcm) {
+a{
+  max-width: 450px;
+ }
+}
+

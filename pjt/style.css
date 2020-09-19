@@ -38,8 +38,6 @@ a{
   transform: translate(-50%, -50%);
   text-decoration: none;
   outline: none;
-}
-a {
   -webkit-tap-highlight-color: transparent;
 }
 

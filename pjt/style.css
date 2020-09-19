@@ -33,7 +33,7 @@ a{
   margin: 0;
   position: absolute;
   left: 50%;
-  top: 86%;
+  top: 89%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
   text-decoration: none;
@@ -73,9 +73,6 @@ a{
 @media all and (-webkit-min-device-pixel-ratio:0) and (min-resolution: .001dpcm) {
 .btn{
   max-width: 490px;
- }
- a{
-   top: 81%;
  }
 }
 

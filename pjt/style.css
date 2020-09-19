@@ -39,10 +39,8 @@ a{
   text-decoration: none;
   outline: none;
 }
-a:focus {
-  outline: none;
-  background-color: none;
-  box-shadow: none;
+a {
+  -webkit-tap-highlight-color: transparent;
 }
 
 @media screen and (max-width: 590px) {
@@ -82,7 +80,6 @@ a:focus {
 }
 
 @media not all and (min-resolution:.001dpcm) { @media {
-
   .btn{
     max-width: 490px;
    }

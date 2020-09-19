@@ -42,6 +42,7 @@ a{
 a:focus {
   outline: none;
   background-color: none;
+  box-shadow: none;
 }
 
 @media screen and (max-width: 590px) {

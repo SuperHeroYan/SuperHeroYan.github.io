@@ -43,8 +43,10 @@ a{
 
 @media screen and (max-width: 590px) {
   .btn{
-    width: 210px;
-    height: 64px;
+    /* width: 210px;
+    height: 64px;*/
+    width: 280px;
+    height: 71px;
     padding: 1px;
   }
   .get-btn{
@@ -56,7 +58,7 @@ a{
     width: 65px;
   }
   a{
-    left: 41%;
+    left: 48%;
     top: 81%;
   }
   video{

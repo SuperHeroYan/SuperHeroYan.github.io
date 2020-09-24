@@ -42,11 +42,6 @@ a{
 }
 
 @media screen and (max-width: 590px) {
-  .for_fixed{
-    position: relative;
-    top: 81%;
-    left: 41%;
-  }
   .btn{
     /* width: 210px;
     height: 64px;*/
@@ -63,9 +58,9 @@ a{
     width: 65px;
   }
   a{
-    /*left: 41%;
-    top: 81%;*/
-    position: fixed;
+    left: 41%;
+    top: 81%;
+    position: absolute;
   }
   video{
     width: 100%;

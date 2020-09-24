@@ -58,8 +58,8 @@ a{
     width: 65px;
   }
   a{
-    left: 41%;
-    top: 81%;
+    /*left: 41%;
+    top: 81%;*/
     position: fixed;
   }
   video{

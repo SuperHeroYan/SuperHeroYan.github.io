@@ -60,7 +60,7 @@ a{
   a{
     left: 41%;
     top: 81%;
-    position: fixed;
+    position: absolute;
   }
   video{
     width: 100%;

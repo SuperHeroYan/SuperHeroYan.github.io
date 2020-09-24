@@ -58,11 +58,9 @@ a{
     width: 65px;
   }
   a{
-    /*left: 41%;
-    top: 81%;*/
+    left: 41%;
+    top: 81%;
     position: fixed;
-    left: 50%;
-    top: 89%;
   }
   video{
     width: 100%;

@@ -39,6 +39,7 @@ a{
   text-decoration: none;
   outline: none;
   -webkit-tap-highlight-color: transparent;
+  position: fixed;
 }
 
 @media screen and (max-width: 590px) {
@@ -60,7 +61,6 @@ a{
   a{
     left: 41%;
     top: 81%;
-    position: fixed;
   }
   video{
     width: 100%;

@@ -42,6 +42,9 @@ a{
 }
 
 @media screen and (max-width: 590px) {
+  .main{
+    height: 90vh;
+  }
   .btn{
     /* width: 210px;
     height: 64px;*/

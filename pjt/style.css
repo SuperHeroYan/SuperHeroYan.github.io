@@ -4,6 +4,7 @@ body{
   margin: 0;
   font-family: sans-serif;
   overflow: hidden !important;
+  background: #ac8e7c;
 }
 .main{
   height: 100vh;
